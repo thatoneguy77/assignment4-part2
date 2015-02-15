@@ -1,0 +1,27 @@
+Start: Mon 9 Feb 2015 13:30:00
+End: Mon 9 Feb 2015 15:31:00
+Tasks: During this time I made a database on my onid account.  
+
+Start: Tues 10 Feb 2015 09:35:00
+End: Tues 10 Feb 2015 13:18:00
+Tasks: During this time I tinkered with displaying the database in table form on a webpage.  I added remove and checkin/checkout buttons with custom labels.  I also started messing with the sort by feature.
+
+Start: Tues 10 Feb 2015 14:10:00
+End: Tues 10 Feb 2015 16:30:00
+Tasks: Fixed the sort feature so it wouldn't show doubles.  Tried to do it myself before I found out that PHP will do it for you.
+
+Start: Fri 13 2015 09:15:00
+End: Fri 13 2015 12:22:00
+Tasks: Finally completed the sort.  Tried a hundered different ways until I checked the message boards and found a better way. 
+
+Start: Fri 13 2015 14:32:00
+End: Fri 13 2015 17:10:00
+Tasks: Using the same strategy that I used for sort I implemented remove and remove all.  Tinkered with and tested it for a while.  Started putting all of it together in the interface file.
+
+Start: Sat 14 2015 10:36:00
+End: Sat 14 2015 12:00:00
+Tasks: Made a some files to handle checking in and checking out a movie.  Finsihed everything up and ran it through the testing protocol.
+
+Start: Sun 15 15:27:00
+End: Sun 15 16:30:00
+Tasks: Went through testing protocol again and uploaded everything to GitHub.
